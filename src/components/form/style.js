@@ -47,6 +47,19 @@ const styles = StyleSheet.create({
         color: 'red',
         fontWeight: 'bold',
         paddingLeft: 20,
+    },
+    listImcs:{
+        
+    },
+    resultImcItem:{
+        fontSize: 24,
+        color: '#ff0043',
+        height: 40,
+        width: '100%',
+        paddingRight: 20,
+    },
+    textResultItemList:{
+        fontSize: 16,
     }
 });
 
